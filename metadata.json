@@ -1,0 +1,5 @@
+{
+  "name": "OfferFlow - 智能 Offer 追踪系统",
+  "description": "基于 Gemini AI 的全自动大学 Offer 解析、申请状态追踪及截止日期管理系统。",
+  "requestFramePermissions": []
+}
